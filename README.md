@@ -1,4 +1,4 @@
-# KCitychatBot
+# KCitychatBot: A knowledge graph based chatbot system for large scale CityGML dataset
 A chatbot based on llm and kg to translate citygml into natural language.
 ---
 This repository is the official implementation of [<u>"KCitychatBot: A knowledge graph based chatbot system for large scale CityGML dataset"</u>](https://github.com/RingBDStack/DG-Mamba#)
